@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+
+# IDE files
+.idea/
+.vscode/
+.DS_Store
+
+# Frontend specific
+frontend/build/
+frontend/dist/
+frontend/.env
+frontend/node_modules/
+
+# Backend specific
+backend/node_modules/
+backend/logs/
+backend/.env
+backend/venv/
+backend/__pycache__/
+.venv/
